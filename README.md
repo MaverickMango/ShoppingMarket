@@ -1,2 +1,0 @@
-# ShoppingMarket
-homework of JavaWeb
